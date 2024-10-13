@@ -4,7 +4,7 @@ Welcome to the Channel 0 News GitHub organization! Our mission is to deliver acc
 
 ## About Us
 
-Channel 0 News is dedicated to providing comprehensive news reporting on [specific topics, e.g., local events, politics, technology, culture]. We believe in the importance of a free press and strive to uphold journalistic integrity while fostering open dialogue.
+Channel 0 News is dedicated to providing comprehensive news reporting on MakeCode. We believe in the importance of a free press and strive to uphold journalistic integrity while fostering open dialogue.
 
 ## Our Coverage
 
