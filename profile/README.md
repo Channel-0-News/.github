@@ -24,7 +24,7 @@ Do you have an amazing story? Share it with us by going to [Form]
 
 ## Contact Us
 
-For inquiries, feedback, or story tips, please reach out to us at robbyzero@outlook.com
+For inquiries, feedback, or story tips, please reach out to us at |somewhere|
 
 Thank you for visiting Channel 0 News on GitHub! We look forward to keeping you informed.
 
